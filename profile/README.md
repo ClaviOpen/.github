@@ -6,4 +6,4 @@ We believe that people shouldn't have to sacrifice privacy to benefit from usefu
 
 Projects such as **Clavimit** and **Clavidoc** put this philosophy into practice.
 
-We welcome contributions from anyone who shares our vision of a more privacy-conscious digital world.
+We welcome contributions from anyone.
